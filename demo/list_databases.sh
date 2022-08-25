@@ -1,0 +1,1 @@
+redis-cli config get databases
